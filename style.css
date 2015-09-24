@@ -1,0 +1,12 @@
+#map-container {
+	height: 400px;
+	width: 500px;
+}
+	.box{
+	width: 200px;
+    height: 200px;
+}
+	.red{
+	background-color: tomato;
+	border: 3px double red;
+}
